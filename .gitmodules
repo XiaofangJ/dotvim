@@ -1,0 +1,69 @@
+
+[submodule "bundle/ack.vim"]
+ path = bundle/ack.vim
+ url = https://github.com/mileszs/ack.vim.git
+
+[submodule "bundle/AutoComplPop"]
+ path = bundle/AutoComplPop
+ url = https://github.com/vim-scripts/AutoComplPop.git
+
+[submodule "bundle/pydoc.vim"]
+ path = bundle/pydoc.vim
+ url = https://github.com/fs111/pydoc.vim.git
+
+[submodule "bundle/ropevim"]
+ path = bundle/ropevim
+ url = https://github.com/python-rope/ropevim
+
+[submodule "bundle/tabular"]
+ path = bundle/tabular
+ url = git://github.com/godlygeek/tabular.git
+
+[submodule "bundle/tlib_vim"]
+ path = bundle/tlib_vim
+ url = https://github.com/tomtom/tlib_vim.git
+
+[submodule "bundle/ultisnips"]
+ path = bundle/ultisnips
+ url = https://github.com/SirVer/ultisnips.git
+
+[submodule "bundle/vim-abolish"]
+ path = bundle/vim-abolish
+ url = git://github.com/tpope/vim-abolish.git
+
+[submodule "bundle/vim-addon-mw-utils"]
+ path = bundle/vim-addon-mw-utils
+ url = https://github.com/MarcWeber/vim-addon-mw-utils.git
+
+[submodule "bundle/vim-bio"]
+ path = bundle/vim-bio
+ url = https://github.com/XiaofangJ/vim-bio.git
+
+[submodule "bundle/vim-flake8"]
+ path = bundle/vim-flake8
+ url = https://github.com/nvie/vim-flake8.git
+
+[submodule "bundle/vim-fugitive"]
+ path = bundle/vim-fugitive
+ url = git://github.com/tpope/vim-fugitive.git
+
+[submodule "bundle/vim-markdown"]
+ path = bundle/vim-markdown
+ url = https://github.com/plasticboy/vim-markdown.git
+
+[submodule "bundle/vim-repeat"]
+ path = bundle/vim-repeat
+ url = git://github.com/tpope/vim-repeat.git
+
+[submodule "bundle/vim-snipmate"]
+ path = bundle/vim-snipmate
+ url = https://github.com/garbas/vim-snipmate.git
+
+[submodule "bundle/vim-snippets"]
+ path = bundle/vim-snippets
+ url = https://github.com/honza/vim-snippets.git
+
+[submodule "bundle/vim-surround"]
+ path = bundle/vim-surround
+ url = git://github.com/tpope/vim-surround.git
+
