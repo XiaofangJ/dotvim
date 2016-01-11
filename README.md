@@ -119,6 +119,8 @@ git clone https://github.com/XiaofangJ/vim-bio.git
 ```
 
 ### How to used this plugins?
++ Install `git clone https://github.com/XiaofangJ/dotvim.git` and then `cd dovim; git submodule init; git submodule update`
 + The .vimrc is modified from the following webiste http://www.sontek.net/blog/2011/05/07/turning_vim_into_a_modern_python_ide.html and https://github.com/sontek/dotfiles/ 
 + Please refer to the original depo for usage info or use `help` command line 
 + [Synchronizing plugins with git submodules and pathogen](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/)
+
