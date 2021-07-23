@@ -1,6 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/jxf/.vim/bundle/vim-addon-mw-utils/autoload'
-let g:netrw_dirhist_2='/Users/jxf/.vim/bundle/ultisnips/syntax'
-let g:netrw_dirhist_3='/Users/jxf/.vim/bundle/ultisnips/rplugin/python3'
-let g:netrw_dirhist_4='/Users/jxf/.vim/autoload'
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/jiangx6/.vim/bundle/vim-bio/colors'
+let g:netrw_dirhist_5='/home/jiangx6/.vim/vim-bio/colors'
+let g:netrw_dirhist_4='/home/jiangx6/.vim/bundle/vim-bio'
+let g:netrw_dirhist_3='/home/jiangx6/.vim'
+let g:netrw_dirhist_2='/home/jiangx6/.vim/bundle/vim-bio'
+let g:netrw_dirhist_1='/home/jiangx6/.vim/vim-bio'
