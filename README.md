@@ -31,28 +31,28 @@ filetype plugin indent on
 + [fugitive](https://github.com/tpope/vim-fugitive.git)
 ```
 cd ~/.vim/bundle
-git clone git://github.com/tpope/vim-fugitive.git
+git clone https://github.com/tpope/vim-fugitive.git
 vim -u NONE -c "helptags vim-fugitive/doc" -c q
 ```
  
 + [surround](https://github.com/tpope/vim-surround.git)
 ```
-git clone git://github.com/tpope/vim-surround.git
+git clone https://github.com/tpope/vim-surround.git
 ```
 
 + [repeat](https://github.com/tpope/vim-repeat.git)
 ```
-git clone git://github.com/tpope/vim-repeat.git
+git clone https://github.com/tpope/vim-repeat.git
 ```
 
 +  [abolish](https://github.com/tpope/vim-abolish.git)
 ```
-git clone git://github.com/tpope/vim-abolish.git
+git clone https://github.com/tpope/vim-abolish.git
 ```
 
 + [tabular](https://github.com/godlygeek/tabular)
 ```
-git clone git://github.com/godlygeek/tabular.git
+git clone https://github.com/godlygeek/tabular.git
 ```
 
 + [ultisnips](https://github.com/SirVer/ultisnips.git)
@@ -77,11 +77,9 @@ let g:UltiSnipsJumpBackwardTrigger="<c-z>"
 let g:UltiSnipsEditSplit="vertical"
 ```
 
-+ [snipmate](https://github.com/garbas/vim-snipmate.git)
 ```
 git clone https://github.com/tomtom/tlib_vim.git
 git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
-git clone https://github.com/garbas/vim-snipmate.git
 git clone https://github.com/honza/vim-snippets.git
 ```
 
