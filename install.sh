@@ -2,15 +2,13 @@ mkdir -p ~/.vim/autoload ~/.vim/bundle && \
 curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 cd ~/.vim/bundle
 
-git clone git://github.com/tpope/vim-fugitive.git
-git clone git://github.com/tpope/vim-surround.git
-git clone git://github.com/tpope/vim-repeat.git
-git clone git://github.com/tpope/vim-abolish.git
-git clone git://github.com/godlygeek/tabular.git
+git clone https://github.com/tpope/vim-fugitive.git
+git clone https://github.com/tpope/vim-surround.git
+git clone https://github.com/tpope/vim-repeat.git
+git clone https://github.com/tpope/vim-abolish.git
+git clone https://github.com/godlygeek/tabular.git
 git clone https://github.com/mileszs/ack.vim.git
-
 git clone https://github.com/SirVer/ultisnips.git
-
 git clone https://github.com/tomtom/tlib_vim.git
 git clone https://github.com/MarcWeber/vim-addon-mw-utils.git
 git clone https://github.com/garbas/vim-snipmate.git
